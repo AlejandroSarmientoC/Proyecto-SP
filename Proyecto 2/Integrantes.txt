@@ -1,0 +1,9 @@
+UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
+DEPARTAMENTO DE CIENCIAS DE LA COMPUTACION
+Estructura de Datos
+Proyecto Segundo Parcial
+
+Integrantes:
+Monga Sebastian
+Nacimba Esteven
+Sarmiento Alejandro
