@@ -6,10 +6,8 @@
  * Fecha de modificacion:  27/12/2021 23:00pm
  * Materia: Estructura de Datos Nrc: 7167
  ***********************************************************************/
-/*8.4.10. Dado un vector x de n elementos reales, donde n es impar, diseñar una función que 
-calcule y devuelva la mediana de ese vector. La mediana es el valor tal que la mitad 
-de los números son mayores que el valor y la otra mitad son menores. Escribir un 
-programa que compruebe la función.
+/*8.4.12. Escribir una función de búsqueda binaria aplicado a un array ordenado 
+descendentemente.
 */
 #include <iostream>
 #include <stdio.h>
